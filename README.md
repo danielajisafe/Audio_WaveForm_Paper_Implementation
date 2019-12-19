@@ -5,9 +5,6 @@ This is an implementaion of the paper "Very deep convolutional neural networks f
 
 
 Collaborators:
-Daniel Ajisafe 
-Grace Adegboro Oluwabukola 
-Carole Fosso 
-Hussam Eldeen Mohamed
+Daniel Ajisafe, Grace Adegboro Oluwabukola, Carole Fosso and Hussam Eldeen Mohamed
 
 

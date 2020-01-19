@@ -6,7 +6,7 @@ Challenges: Google Colab session expires after 12 hours at the longest. We also 
 
 
 Collaborators:
-Daniel Ajisafe, Grace Adegboro Oluwabukola, Carole Fosso and Hussam Eldeen Mohamed
+Daniel Ajisafe, Oluwabukola Grace Adegboro, Carole Fosso and Hussam Eldeen Mohamed
 
 
  

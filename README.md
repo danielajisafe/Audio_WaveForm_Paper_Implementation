@@ -3,7 +3,7 @@
 This is an implementaion of the paper "Very deep convolutional neural networks for raw waveforms" by Wei Dai*, Chia Dai*, Shuhui Qu, Juncheng Li, Samarjit Das. The paper is found [here](https://arxiv.org/pdf/1610.00087.pdf) and was implemented in Pytorch.
 
 ### Requirements:
-To get started, pytorch, pandas, numpy and torchaudio needs to be installed or imported.
+To get started, pytorch, pandas, numpy and torchaudio needs to be installed.
 
 Instructions on how to carry out these installations are found below:
 [Pytorch](https://pytorch.org/),

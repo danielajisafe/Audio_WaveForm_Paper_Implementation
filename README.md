@@ -1,9 +1,7 @@
-hi# Audio_WaveForm_Paper_Implementation
-
-This is an implementaion of the paper "Very deep convolutional neural networks for raw waveforms" by Wei Dai*, Chia Dai*, Shuhui Qu, Juncheng Li, Samarjit Das. The paper is found [here](https://arxiv.org/pdf/1610.00087.pdf) and was implemented in Pytorch.
+This is an implementation of the paper "Very deep convolutional neural networks for raw waveforms" by Wei Dai*, Chia Dai*, Shuhui Qu, Juncheng Li, Samarjit Das. The paper is found [here](https://arxiv.org/pdf/1610.00087.pdf) and was implemented in Pytorch.
 
 ### Requirements:
-To get started, Torchaudio, Pytorch, numpy and Pandas needs to be installed.
+To get started, Torchaudio, Pytorch, Numpy and Pandas needs to be installed.
 
 Instructions on how to carry out these installations are found below:
 [Pytorch](https://pytorch.org/),

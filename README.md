@@ -40,10 +40,3 @@ Google Colab session expires after 12 hours at the longest. We also discovered t
 
 #### Collaborators:
 Daniel Ajisafe, Oluwabukola Grace Adegboro, Carole Fosso and Hussam Eldeen Mohamed.
-
--- 
-Oluwabukola Grace AdegboroAfrican Masters in Machine Intelligence | QLAMob. +2348162338948 | Tel. +250787450334Email: gadegboro@aimsammi.orgSkype id: oluwabukola.adegboro
-DISCLAIMER: The contents of this email and any attachments are confidential. They are intended for the named recipient(s) only. If you have received this email by mistake, please notify the sender immediately and you are herewith notified that the contents are legally privileged and that you do not have permission to disclose the contents to anyone, make copies thereof, retain or distribute or act upon it by any means, electronically, digitally or in print. The views expressed in this communication may be of a personal nature and not be representative of AIMS-NEI and/or any of its Centres or Initiatives.
-
--- 
-Daniel AjisafeAfrican Masters in Machine Intelligence | AMMIMob. +250781603040 | Tel. +2348103574243Email: dajisafe@aimsammi.orgSkype id: ajisafedaniel
